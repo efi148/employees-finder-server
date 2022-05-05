@@ -4,13 +4,9 @@
 
 this is the server side of the employees' manager.
 
------
-
 ## Installation
 
 via github.
-
------
 
 ## Running the app
 
@@ -25,12 +21,8 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
------
-
 ## accessing the server
 in your browser navigate to `http://localhost:3000`
-
------
 
 ## Usage
 
@@ -95,7 +87,6 @@ interface:
   state: string;
 }
 ```
-
 
 #### API
 
