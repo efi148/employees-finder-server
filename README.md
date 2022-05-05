@@ -58,6 +58,7 @@ in your browser navigate to `http://localhost:3000`
 * Create new employee
 
     ####request `POST /employees/`
+
     ####response `returns the new array of employees`
 
 
@@ -70,6 +71,7 @@ in your browser navigate to `http://localhost:3000`
 * Delete employee by id
 
   ####request `DELETE /employees/id`
+
   ####response `returns the new array of employees or false if don'd exist`
 
 ### company
@@ -103,6 +105,7 @@ interface:
 * Create new company
 
   ####request `POST /companies/`
+
   ####response `returns the new array of companies`
 
 
@@ -115,6 +118,7 @@ interface:
 * Delete company by id
 
   ####request `DELETE /companies/id`
+
   ####response `returns the new array of companies or false if don'd exist`
 
 
