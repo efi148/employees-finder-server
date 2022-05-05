@@ -77,7 +77,7 @@ in your browser navigate to `http://localhost:3000`
 
 ### company
 
-interface:
+#### interface:
 
 ```ts
 {
